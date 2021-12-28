@@ -1,4 +1,6 @@
 ### Hi there 👋
+Name: Mit Ashokbhai Chauhdary
+OPS445 (NBB)
 
 <!--
 **Machaudhary3/machaudhary3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
